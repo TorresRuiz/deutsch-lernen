@@ -39,6 +39,8 @@ There are no official rules as to when to use "Der/Die/Das" although they fall i
 
 For example/zum Beispiel: *(en)* **The** apple is red / *(de)* **Der** Apfel ist rot. 
 
+
+
 > **Note:** Although an apple is neutral, we used the article "Der".
 
 Even though they are no rules, they are generic cases using syllabus, one can use to identify the right article to use.
@@ -49,9 +51,12 @@ All words ending with "ich", "ig", "ling" and "s"
 
 > **Exception:** Numbers with ending "ig" are always feminine.
 
-### Weiblich
+### Weiblich Femenin
 
 All words ending with "ei", "in", "heit", "keit", "ung", "schaft", "a" and "ie".
+
+Gesellschaft = Society = Sociedad
+Brüderschaft
  
 ### Sächlich
  
